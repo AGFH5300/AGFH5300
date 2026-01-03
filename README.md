@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer & Student · UAE</h3>
 
 <p align="center">
-  <a href="mailto:ansh@anshgupta.site"><img src="https://img.shields.io/badge/Email-ansh@anshgupta.site-red?style=for-the-badge" /></a>
+  <a href="mailto:dxb.avg@gmail.com"><img src="https://img.shields.io/badge/Email-dxb.avg@gmail.com-red?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/anshvg/"><img src="https://img.shields.io/badge/LinkedIn-anshvg-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/AGFH5300"><img src="https://img.shields.io/badge/GitHub-AGFH5300-black?style=for-the-badge&logo=github" /></a>
   <a href="https://wa.me/971585082674?text=Hello!"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" /></a>
