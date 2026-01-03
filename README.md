@@ -130,20 +130,7 @@ Achievements include multiple 1st-place finishes in game jams, math competitions
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AGFH5300&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=AGFH5300&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AGFH5300&theme=onedark&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=AGFH5300&theme=onedark&no-frame=true&row=1&column=3&title=Commit,PullRequest,Repositories"
     alt="GitHub Trophies"
   />
 </p>
