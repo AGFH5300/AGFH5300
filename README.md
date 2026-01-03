@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer & Student from the UAE 🇦🇪</h3>
 
 <p align="center">
-  <a href="mailto:ansh@anshgupta.site">
+  <a href="mailto:dxb.avg@gmail.com">
     <img src="https://img.shields.io/badge/Email-ansh@anshgupta.site-red?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/anshvg/">
