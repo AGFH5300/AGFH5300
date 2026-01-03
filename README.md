@@ -2,14 +2,15 @@
 <h3 align="center">Web Developer & Student · UAE</h3>
 
 <p align="center">
-  <a href="mailto:dxb.avg@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/anshvg/">LinkedIn</a> ·
-  <a href="https://github.com/AGFH5300">GitHub</a> ·
-  <a href="https://wa.me/971585082674">WhatsApp</a>
+  <a href="mailto:ansh@anshgupta.site"><img src="https://img.shields.io/badge/Email-ansh@anshgupta.site-red?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/anshvg/"><img src="https://img.shields.io/badge/LinkedIn-anshvg-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/AGFH5300"><img src="https://img.shields.io/badge/GitHub-AGFH5300-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://wa.me/971585082674?text=Hello!"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://www.snapchat.com/add/AGFH530"><img src="https://img.shields.io/badge/Snapchat-AGFH530-yellow?style=for-the-badge&logo=snapchat" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AGFH5300&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AGFH5300&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
